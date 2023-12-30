@@ -24,17 +24,17 @@ const serviceData = [
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: '"Offering comprehensive branding services to help businesses create a unique and memorable identity. Our team specializes in developing brand strategies, logo design, visual identity, and brand messaging to effectively communicate the essence of your business. Let us help you stand out and make a lasting impression in the market."',
+    description: 'Crafting memorable brand identities to elevate your business and captivate audiences.',
   },
   {
     icon: <RxPencil2 />,
     title: 'Design',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Elevating brands with stunning visuals and impactful design solutions.',
   },
   {
     icon: <RxDesktop />,
     title: 'Development',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Creating captivating portfolio websites to effectively display your skills and expertise.',
   },
   {
     icon: <RxReader />,
