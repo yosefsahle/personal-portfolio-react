@@ -5,6 +5,7 @@ import Image from 'next/image';
 import ParticlesContainer from '../components/ParticlesContainer';
 import ProjectsBtn from '../components/ProjectsBtn';
 import Avatar from '../components/Avatar';
+import Contact from '../pages/contact/index'
 
 //framer motion
 import{motion} from 'framer-motion';

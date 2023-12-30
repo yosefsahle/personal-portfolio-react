@@ -24,7 +24,7 @@ const serviceData = [
   {
     icon: <RxCrop />,
     title: 'Branding',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: '"Offering comprehensive branding services to help businesses create a unique and memorable identity. Our team specializes in developing brand strategies, logo design, visual identity, and brand messaging to effectively communicate the essence of your business. Let us help you stand out and make a lasting impression in the market."',
   },
   {
     icon: <RxPencil2 />,
